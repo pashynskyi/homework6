@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Aire";
-    src: url("./fonts/aire-exterior/18685.ttf") format("truetype");
+    src: url("../fonts/aire-exterior/18685.ttf") format("truetype");
     font-size: normal;
     font-weight: normal;
   }
@@ -43,7 +43,7 @@ div.header-div {
 }
 
 p.green-title  {
-    font-size: 28px;
+    font-size: 35px;
     color: cadetblue;
     font-family: "Aire";
 }
